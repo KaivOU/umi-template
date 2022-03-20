@@ -1,0 +1,8 @@
+./config
+./scripts
+
+.eslintrc.js
+src/assets/iconfont/iconfont.js
+src/components/Icon/icon-svgs.ts
+./src/components/Icon/icon-svgs.ts
+./src/assets/iconfont/*
